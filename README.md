@@ -8,7 +8,7 @@ Jack loves the PlanMyTrip app. Beta testers love it too. And, as with any new pr
    2) Grab the weather conditions for all the cities by calling data from the [Open Weather Map API](https://home.openweathermap.org/). 
    3) Make it into a dataframe & save it as [WeatherPy_Database.csv](https://github.com/CLHollis/World_Weather_Analysis/blob/a92e4f776f14014018c8ecf7d52093b35bad0274/CHALLENGE/Weather_Database/WeatherPy_Database.csv)
 
-        <img src="https://github.com/CLHollis/World_Weather_Analysis/blob/5fd413055075978ca0997d31ac45af652f83e7f7/CHALLENGE/Weather_Database/weather_database.PNG" width="900" height="200">
+        <img src="https://github.com/CLHollis/World_Weather_Analysis/blob/5fd413055075978ca0997d31ac45af652f83e7f7/CHALLENGE/Weather_Database/weather_database.PNG" width="900" height="150">
 
 2. Create a Customer Travel Destinations Map
    1) Start a new Jupyter Notebook Python file [Vacation_Search.ipynb](https://github.com/CLHollis/World_Weather_Analysis/blob/a92e4f776f14014018c8ecf7d52093b35bad0274/CHALLENGE/Vacation_Search/Vacation_Search.ipynb), and use the  [WeatherPy_Database.csv](https://github.com/CLHollis/World_Weather_Analysis/blob/a92e4f776f14014018c8ecf7d52093b35bad0274/CHALLENGE/Weather_Database/WeatherPy_Database.csv), have the user enter in their minimum and maximum desired temps to narrow down the search for an ideal destination. (Here, we use 80 & 100 as the example.)
